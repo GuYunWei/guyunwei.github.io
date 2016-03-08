@@ -7,7 +7,7 @@ layout: default
       <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
       <p>By {{ post.author }} on <time pubdate datetime="{{ post.date | date: "%Y-%b-%-d" }}">{{ post.date | date: "%b %-d, %Y" }}</time></p>
     </header>
-    <p>{{ post.content }}</p>
+    <!-- <p>{{ post.content }}</p> -->
   </article>
 {% endfor %}
 
