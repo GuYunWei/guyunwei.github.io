@@ -1,8 +1,8 @@
 # Site settings
-title: Tyler Cubell
+title: Blog - Guyw
 meta_description: Blog
 baseurl:  "" # Subpath, e.g. /blog/
-url: "http://www.tylercubell.com" # Base protocol and hostname
+url: "http://guyunwei.github.io" # Base protocol and hostname
 paginate: 3 # How many posts to show per page
 
 # External Pages
@@ -14,8 +14,8 @@ paginate: 3 # How many posts to show per page
 google_analytics: UA-57422706-1
 
 # Author settings
-author_name: Tyler Cubell
-author_description: Full Stack Developer
+author_name: Gu Yunwei
+author_description: FrontEnd Developer
 author_image: https://avatars1.githubusercontent.com/u/8307158
 author_image_width: 180
 author_image_height: 180
@@ -25,7 +25,7 @@ author_image_mime: image/png
 share_buttons: on
 
 # Comments settings
-disqus_shortname: tylercubell
+disqus_shortname: Guyw
 
 # Sidebar settings
 sidebar: left # left|right
@@ -34,7 +34,7 @@ subscribe_widget: on
 copyright_notice: on
 
 # Social settings
-github_username:  tylercubell
+github_username:  guyunwei
 twitter_username: tylercubell
 
 # Mailchimp.com - Email subscribtion settings
@@ -44,7 +44,7 @@ list_id: "b_25ec516894b013df92dca1a8d_8906705de6"
 
 # Formspreee.io - Contact form settings
 # Note: submit form once to activate
-email: hello@tylercubell.com
+email: 296563441@qq.com
 
 # Sass settings
 sass:

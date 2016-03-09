@@ -4,7 +4,7 @@ title: About
 date: 2015-08-28 11:00:00
 permalink: /about/
 ---
-Hi there, my name is Tyler and I'm a full stack developer from East Bridgewater, MA.
+Hi there, my name is Gu Yunwei and I'm a frontEnd developer from Beijing.
 
 <div class="container">
     <div class="row">
