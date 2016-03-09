@@ -2,7 +2,7 @@
 layout: default
 ---
 {% for post in paginator.posts %}
-  <article class="content-box post">
+  <article class="content-box post post-list">
     <header>
       <h1><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h1>
       <p>By {{ post.author }} on <time pubdate datetime="{{ post.date | date: "%Y-%b-%-d" }}">{{ post.date | date: "%b %-d, %Y" }}</time></p>

@@ -1,10 +1,14 @@
 /* Blog posts */
 .post {
+  padding: 50px;
+}
+.post-list{
   padding: 0;
   border: 50px solid transparent;
   max-height: 600px;
   overflow: hidden;
 }
+  
 .post h1 {
   margin-bottom:20px;
   font-family:'Domine', sans-serif;

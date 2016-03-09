@@ -24,7 +24,7 @@ layout: default
         <button class="btn btn-primary btn-block subscribe-button subscribe-button-post">Subscribe to posts</button>
         {% endif %}
 
-        {% if site.share_buttons %}
+        <!-- {% if site.share_buttons %}
         <aside id="social_buttons">
             <div class="col-sm-4" id="facebook-button">
                 <div id="fb-root"></div>
@@ -68,15 +68,12 @@ layout: default
                 <div class="g-plusone" data-size="medium"></div>
             </div>
         </aside>
-        {% endif %}
+        {% endif %} -->
         
         {% if site.disqus_shortname %}
         <div id="disqus_thread"></div>
         <script type="text/javascript">
-            /* * * CONFIGURATION VARIABLES * * */
             var disqus_shortname = '{{ site.disqus_shortname }}';
-            
-            /* * * DON'T EDIT BELOW THIS LINE * * */
             (function() {
                 var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
                 dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
