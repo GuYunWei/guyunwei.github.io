@@ -47,4 +47,16 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+
+    {% if site.BaiduID %}
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "//hm.baidu.com/hm.js?fba9e3a520e406dd84863f55dbfd8221";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+    {% endif %}
 </head>
