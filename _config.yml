@@ -14,7 +14,7 @@ paginate: 5 # How many posts to show per page
 # google_analytics: UA-74901128-1
 
 #Baidu Statistics
-BaiduID: 
+BaiduID: fba9e3a520e406dd84863f55dbfd8221
 
 # Author settings
 author_name: Gu Yunwei
@@ -28,7 +28,8 @@ author_image_mime: image/png
 share_buttons: on
 
 # Comments settings
-disqus_shortname: Guyw
+# disqus_shortname: Guyw
+duoshuo_shortname: Guyw
 
 # Sidebar settings
 sidebar: left # left|right
