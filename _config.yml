@@ -28,8 +28,9 @@ author_image_mime: image/png
 share_buttons: on
 
 # Comments settings
-disqus_shortname: Guyw
-# duoshuo_shortname: Guyw
+# disqus_shortname: Guyw
+duoshuo_shortname: Guyw
+duoshuo_hotartical: true
 
 # Sidebar settings
 sidebar: left # left|right
