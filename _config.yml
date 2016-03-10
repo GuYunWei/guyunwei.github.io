@@ -17,8 +17,8 @@ paginate: 5 # How many posts to show per page
 baidu_analytics: fba9e3a520e406dd84863f55dbfd8221
 
 # Author settings
-author_name: 顾云伟
-author_description: Web前端工程师
+author_name: Gu Yunwei
+author_description: FrontEnd Developer
 author_image: https://avatars1.githubusercontent.com/u/8307158
 author_image_width: 180
 author_image_height: 180
@@ -28,9 +28,8 @@ author_image_mime: image/png
 share_buttons: on
 
 # Comments settings
-# disqus_shortname: Guyw
-duoshuo_shortname: Guyw
-duoshuo_hotartical: on
+disqus_shortname: Guyw
+# duoshuo_shortname: Guyw
 
 # Sidebar settings
 sidebar: left # left|right
@@ -41,6 +40,12 @@ copyright_notice: on
 # Social settings
 github_username:  guyunwei
 twitter_username: guyunwei
+youtube_username: guyunwei
+dribbble_username: guyunwei
+googleplus_username: guyunwei
+instagram_username: guyunwei
+pinterest_username: guyunwei
+linkedin_username: guyunwei
 
 # Mailchimp.com - Email subscribtion settings
 # Refer to http://kb.mailchimp.com/lists/signup-forms/advanced-form-customization
@@ -53,7 +58,7 @@ email: 296563441@qq.com
 
 # Sass settings
 sass:
-    style: :compressed
+  style: :compressed
 
 # Gems
 gems:

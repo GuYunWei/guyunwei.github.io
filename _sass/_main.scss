@@ -168,15 +168,6 @@ code {
     float: right;
 }
 
-.bdsharebuttonbox span.share{
-    display: inline-block;
-    line-height: 36px;
-    float: left;
-    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-}
-
-#ds-thread #ds-reset .ds-login-buttons {
-    display: inline-block;
+#ds-thread #ds-reset .ds-login-buttons .ds-social-links {
+    width: 100%!important;
 }
