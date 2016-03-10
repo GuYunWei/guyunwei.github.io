@@ -13,8 +13,8 @@ paginate: 5 # How many posts to show per page
 # Google Analytics
 # google_analytics: UA-74901128-1
 
-#Baidu Statistics
-BaiduID: fba9e3a520e406dd84863f55dbfd8221
+# Baidu Analytics
+baidu_analytics: fba9e3a520e406dd84863f55dbfd8221
 
 # Author settings
 author_name: Gu Yunwei

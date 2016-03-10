@@ -162,3 +162,17 @@ iframe {
 code {
   display:block;
 }
+
+.bdsharebuttonbox{
+    display: inline-block;
+    float: right;
+}
+
+.bdsharebuttonbox span.share{
+    display: inline-block;
+    line-height: 36px;
+    float: left;
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
