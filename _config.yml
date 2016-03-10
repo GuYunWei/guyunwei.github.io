@@ -17,8 +17,8 @@ paginate: 5 # How many posts to show per page
 baidu_analytics: fba9e3a520e406dd84863f55dbfd8221
 
 # Author settings
-author_name: Gu Yunwei
-author_description: FrontEnd Developer
+author_name: 顾云伟
+author_description: Web前端工程师
 author_image: https://avatars1.githubusercontent.com/u/8307158
 author_image_width: 180
 author_image_height: 180
@@ -30,6 +30,7 @@ share_buttons: on
 # Comments settings
 # disqus_shortname: Guyw
 duoshuo_shortname: Guyw
+duoshuo_hotartical: on
 
 # Sidebar settings
 sidebar: left # left|right
