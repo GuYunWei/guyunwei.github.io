@@ -19,7 +19,7 @@ baidu_analytics: fba9e3a520e406dd84863f55dbfd8221
 # Author settings
 author_name: Gu Yunwei
 author_description: FrontEnd Developer
-author_image: https://avatars1.githubusercontent.com/u/8307158
+author_image: https://avatars1.githubusercontent.com/u/17643052
 author_image_width: 180
 author_image_height: 180
 author_image_mime: image/png
@@ -40,10 +40,10 @@ copyright_notice: on
 
 # Social settings
 github_username:  guyunwei
-weibo_username:  guyunwei
+weibo_username:  guyunwei1
 twitter_username: guyunwei1
-youtube_username: guyunwei
-dribbble_username: guyunwei
+zhihu_username: guyunwei
+douban_username: guyunwei
 googleplus_username: guyunwei
 instagram_username: guyunwei
 pinterest_username: guyunwei
